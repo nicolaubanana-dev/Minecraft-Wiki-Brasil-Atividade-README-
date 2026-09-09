@@ -13,3 +13,5 @@ Há várias edições do Minecraft que recebem manutenção ativa, sendo elas a:
 - Edição Bedrock para Windows, dispositivos móveis e consoles; e
 - Minecraft Education, uma variante da Edição Bedrock para salas de aula.
 - Edição China, um lançamento localizado de ambas as edições para a China continental.
+
+# O que é Minecraft Wiki 🌏?
