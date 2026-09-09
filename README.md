@@ -19,4 +19,19 @@ Há várias edições do Minecraft que recebem manutenção ativa, sendo elas a:
 O Minecraft Wiki (especificamente o Wiki Brasil) é um site destinado a compartilhar informações sobre o jogo Minecraft(2009) com a comunidade, conectando os jogadores brasileiros e ajudando novos players.
 O Site conta com 16 subpáginas, cada uma delas recheada de informações e dados sobre diversas áreas e itens do jogo, sendo elas:
 
-- [![Comércio](https://minecraft.wiki/images/thumb/Emerald_JE3_BE3.png/120px-Emerald_JE3_BE3.png?4c5f3)](https://pt.minecraft.wiki/w/Com%C3%A9rcio)
+- [Comércio](https://pt.minecraft.wiki/w/Com%C3%A9rcio)
+- [Fermentação](https://pt.minecraft.wiki/w/Fermenta%C3%A7%C3%A3o)
+- [Encantamento](https://pt.minecraft.wiki/w/Encantamento)
+- [Criaturas](https://pt.minecraft.wiki/w/Criatura)
+- [Blocos](https://pt.minecraft.wiki/w/Bloco)
+- [Comércio]()
+- [Comércio]()
+- [Comércio]()
+- [Comércio]()
+- [Comércio]()
+- [Comércio]()
+- [Comércio]()
+- [Comércio]()
+- [Comércio]()
+- [Comércio]()
+- [Comércio]()
