@@ -40,5 +40,5 @@ O Site conta com 16 subpáginas, cada uma delas recheada de informações e dado
 
 O site também conta com uma página dedicada a discussões entre usuários sobre o jogo. Assim como no GitHub, nesta página os usuários podem interagir com os outros e tirar dúvidas.
 
-[![Minecraft Wiki- Aba Discussões](Captura de tela 2026-09-09 204953.png)](https://pt.minecraft.wiki/)
+[![Minecraft Wiki- Aba Discussões](Captura_de_tela_2026-09-09_204953.png)](https://pt.minecraft.wiki/w/Discuss%C3%A3o:Minecraft_Wiki)
 
