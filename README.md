@@ -15,3 +15,8 @@ Há várias edições do Minecraft que recebem manutenção ativa, sendo elas a:
 - Edição China, um lançamento localizado de ambas as edições para a China continental.
 
 # O que é Minecraft Wiki 🌏?
+
+O Minecraft Wiki (especificamente o Wiki Brasil) é um site destinado a compartilhar informações sobre o jogo Minecraft(2009) com a comunidade, conectando os jogadores brasileiros e ajudando novos players.
+O Site conta com 16 subpáginas, cada uma delas recheada de informações e dados sobre diversas áreas e itens do jogo, sendo elas:
+
+- [Comércio](https://pt.minecraft.wiki/w/Com%C3%A9rcio)
