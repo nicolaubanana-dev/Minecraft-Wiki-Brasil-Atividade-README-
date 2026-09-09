@@ -35,3 +35,7 @@ O Site conta com 16 subpáginas, cada uma delas recheada de informações e dado
 - [Comandos](https://pt.minecraft.wiki/w/Comandos)
 - [Histórico de Versões](https://pt.minecraft.wiki/w/Hist%C3%B3rico_de_vers%C3%B5es)
 - [Tutoriais](https://pt.minecraft.wiki/w/Tutoriais)
+
+# Aba de discussões🗨️
+
+O site também conta com uma página dedicada a discussões entre usuários sobre o jogo. Assim como no GitHub, nesta página os usuários podem interagir com os outros e tirar dúvidas.
