@@ -1,7 +1,7 @@
 # Minecraft-Wiki-Brasil-Atividade-README-
 Repositório Informativo da Wiki Brasileira do jogo Minecraft (2009).
 
-[![Minecraft Wiki](https://pt.minecraft.wiki/images/Minecraft_Wiki_header.svg?64608)](https://pt.minecraft.wiki/)
+[![Minecraft Wiki](channels4_profile-removebg-preview.png)](https://pt.minecraft.wiki/)
 
 
 # O que é Minecraft?
