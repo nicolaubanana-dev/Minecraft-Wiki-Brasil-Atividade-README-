@@ -14,6 +14,8 @@ Há várias edições do **Minecraft** que recebem manutenção ativa, sendo ela
 - **Minecraft Education,** uma variante da Edição Bedrock para salas de aula.
 - Edição **China,** um lançamento localizado de ambas as edições para a China continental.
 
+[![Minecraft](minecraft-image.jpg)](https://www.minecraft.net/pt-br)
+
 
 # O que é Minecraft Wiki 🌏?
 
