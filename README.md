@@ -70,6 +70,11 @@ O site foca na comunidade de jogadores de Minecraft, mas também em transmitir c
 O Minecraft Wiki foi produzido e programado com a mesma tecnologia do Wikipedia, sendo ela [MediaWiki](https://www.mediawiki.org/wiki/MediaWiki)
 
 
+# Requisitos
+
+Para acessar o site, você precisará de acesso a internet e um computador/dispositivo móvel.
+
+
 # Desenvolvedores
 
 - Nicolas Bellasco (nicolaubanana-dev)
