@@ -82,25 +82,6 @@ O Site conta com **16 subpáginas,** cada uma delas recheada de informações e 
 > Todas as páginas estão disponíveis direto no site oficial.
 
 
-# Aba de discussões 🗨️
-
-O site também conta com uma página dedicada a **discussões** entre usuários sobre a página principal do site. Assim como no GitHub, nesta página os usuários podem interagir com os outros, editar códigos-fonte e ver as principais alterações feitas no site em tempo real.
-
-[![Minecraft Wiki- Aba Discussões](print_discussoes.png)](https://pt.minecraft.wiki/w/Discuss%C3%A3o:Minecraft_Wiki)
-> O Site é produzido por fãs e todos os dias recebe informações de contribuintes relacionadas ao jogos da Mojang Studios.
-
-
-
-# Quem é o Público-alvo 🔎?
-
-O site foca na **comunidade** de jogadores de $$\color{green}\text{Minecraft,}$$ mas também em transmitir conhecimento para aqueles que querem começar a jogar o jogo e entrar na comunidade.
-
-<div align="center">
-
- ![Minecraft Comunidade](artigo-comunidades-minecraft.jpg)
-
-</div>
-
 # Como o Site foi feito 🧩?
 
 O $$\color{cyan}\text{Minecraft Wiki}$$ foi produzido e programado com a mesma tecnologia do **Wikipedia,** sendo ela o [MediaWiki](https://www.mediawiki.org/wiki/MediaWiki)
@@ -113,6 +94,24 @@ O $$\color{cyan}\text{Minecraft Wiki}$$ foi produzido e programado com a mesma t
 
 O software $$\color{orange}\text{MediaWiki}$$ é utilizado por dezenas de milhares de sites e por milhares de empresas e organizações. O $$\color{orange}\text{MediaWiki}$$ ajuda você a reunir e organizar o conhecimento e disponibilizá-lo para as pessoas. É poderoso, multi-idiomas, gratuito e aberto, extensível, personalizável, confiável e gratuito.
 
+
+# Quem é o Público-alvo 🔎?
+
+O site foca na **comunidade** de jogadores de $$\color{green}\text{Minecraft,}$$ mas também em transmitir conhecimento para aqueles que querem começar a jogar o jogo e entrar na comunidade.
+
+<div align="center">
+
+ ![Minecraft Comunidade](artigo-comunidades-minecraft.jpg)
+
+</div>
+
+
+# Aba de discussões 🗨️
+
+O site também conta com uma página dedicada a **discussões** entre usuários sobre a página principal do site. Assim como no GitHub, nesta página os usuários podem interagir com os outros, editar códigos-fonte e ver as principais alterações feitas no site em tempo real.
+
+[![Minecraft Wiki- Aba Discussões](print_discussoes.png)](https://pt.minecraft.wiki/w/Discuss%C3%A3o:Minecraft_Wiki)
+> O Site é produzido por fãs e todos os dias recebe informações de contribuintes relacionadas ao jogos da Mojang Studios.
 
 
 # Requisitos 📱
