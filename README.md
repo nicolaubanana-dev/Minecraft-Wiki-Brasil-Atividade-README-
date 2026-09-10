@@ -93,7 +93,7 @@ O site também conta com uma página dedicada a **discussões** entre usuários 
 
 # Quem é o Público-alvo 🔎?
 
-O site foca na **comunidade** de jogadores de *$$\color{green}\text{Minecraft,}$$ mas também em transmitir conhecimento para aqueles que querem começar a jogar o jogo e entrar na comunidade.
+O site foca na **comunidade** de jogadores de $$\color{green}\text{Minecraft,}$$ mas também em transmitir conhecimento para aqueles que querem começar a jogar o jogo e entrar na comunidade.
 
 <div align="center">
 
@@ -103,7 +103,7 @@ O site foca na **comunidade** de jogadores de *$$\color{green}\text{Minecraft,}$
 
 # Como o Site foi feito 🧩?
 
-O **Minecraft Wiki** foi produzido e programado com a mesma tecnologia do **Wikipedia,** sendo ela o [MediaWiki](https://www.mediawiki.org/wiki/MediaWiki)
+O $$\color{cyan}\text{Minecraft Wiki}$$ foi produzido e programado com a mesma tecnologia do **Wikipedia,** sendo ela o [MediaWiki](https://www.mediawiki.org/wiki/MediaWiki)
 
 <div align="center">
  
