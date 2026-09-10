@@ -6,6 +6,7 @@
  [![Minecraft Wiki](channels4_profile-removebg-preview.png)](https://pt.minecraft.wiki/)
 
 </div>
+
 > Este Repositório foi feito com cunho educativo e sem fins lucrativos.
 
 
