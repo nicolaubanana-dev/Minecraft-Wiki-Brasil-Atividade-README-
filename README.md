@@ -11,9 +11,9 @@
 
 
 # O que é Minecraft 🎮?
-$$\color{green}\text{Minecraft}$$ é um jogo de aventura sandbox em 3D desenvolvido pela **Mojang Studios** em que o jogador interage com um ambiente tridimensional totalmente modificável feito de blocos e entidades. Sua jogabilidade diversa permite que o jogador escolha a forma como joga, com inúmeras possibilidades.
+$$\color{green}\text{Minecraft}$$ é um jogo de aventura sandbox em 3D desenvolvido pela $$\color{red}\text{Mojang Studios}$$ em que o jogador interage com um ambiente tridimensional totalmente modificável feito de blocos e entidades. Sua jogabilidade diversa permite que o jogador escolha a forma como joga, com inúmeras possibilidades.
 
-Há várias edições do **Minecraft** que recebem manutenção ativa, sendo elas a:
+Há várias edições do $$\color{green}\text{Minecraft}$$ que recebem manutenção ativa, sendo elas a:
 
 - Edição **Java** para **Windows,** **macOS** e **Linux;**
 - Edição **Bedrock** para **Windows,** **dispositivos móveis** e **consoles;** e
@@ -29,7 +29,7 @@ Há várias edições do **Minecraft** que recebem manutenção ativa, sendo ela
 
 # O que é Minecraft Wiki 🌏?
 
-O **Minecraft Wiki** (especificamente o Wiki Brasil) é um site destinado a compartilhar informações sobre o jogo **Minecraft(2009)** com a comunidade, conectando os jogadores brasileiros e ajudando novos players.
+O $$\color{cyan}\text{Minecraft Wiki}$$ (especificamente o Wiki Brasil) é um site destinado a compartilhar informações sobre o jogo **Minecraft(2009)** com a comunidade, conectando os jogadores brasileiros e ajudando novos players.
 O Site conta com **16 subpáginas,** cada uma delas recheada de informações e dados sobre diversas áreas e itens do jogo, sendo elas:
 
 1. [Comércio](https://pt.minecraft.wiki/w/Com%C3%A9rcio)
