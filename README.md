@@ -124,7 +124,7 @@ Para poder contribuir ao site com programação, será obrigatoriamente necessá
 
 # Desenvolvedores 🖥
 
-- $$\color{green}\text{Nicolas Bellasco (nicolaubanana-dev)}$$
+- mermao teste testando pra ver se fica $$\color{green}\text{Nicolas Bellasco (nicolaubanana-dev)}$$ a
 - Gabriel Santiago
 
 
