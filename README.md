@@ -20,52 +20,52 @@ Há várias edições do **Minecraft** que recebem manutenção ativa, sendo ela
 O **Minecraft Wiki** (especificamente o Wiki Brasil) é um site destinado a compartilhar informações sobre o jogo **Minecraft(2009)** com a comunidade, conectando os jogadores brasileiros e ajudando novos players.
 O Site conta com **16 subpáginas,** cada uma delas recheada de informações e dados sobre diversas áreas e itens do jogo, sendo elas:
 
-- [Comércio](https://pt.minecraft.wiki/w/Com%C3%A9rcio)
+1. [Comércio](https://pt.minecraft.wiki/w/Com%C3%A9rcio)
 Página sobre o comércio do jogo com NPCS (Aldeões).
 
-- [Fermentação](https://pt.minecraft.wiki/w/Fermenta%C3%A7%C3%A3o)
+2. [Fermentação](https://pt.minecraft.wiki/w/Fermenta%C3%A7%C3%A3o)
 Página sobre receitas e materiais para poções.
 
-- [Encantamento](https://pt.minecraft.wiki/w/Encantamento)
+3. [Encantamento](https://pt.minecraft.wiki/w/Encantamento)
 Página sobre encantamentos de ferramentas (picareta, machado, etc).
 
-- [Criaturas](https://pt.minecraft.wiki/w/Criatura)
+4. [Criaturas](https://pt.minecraft.wiki/w/Criatura)
 Página sobre todas as criaturas do jogo (hostis, neutras e amigáveis).
 
-- [Blocos](https://pt.minecraft.wiki/w/Bloco)
+5. [Blocos](https://pt.minecraft.wiki/w/Bloco)
 Página sobre os blocos do jogo.
 
-- [Itens](https://pt.minecraft.wiki/w/Item)
+6. [Itens](https://pt.minecraft.wiki/w/Item)
 Página sobre todos os itens do jogo.
 
-- [Biomas](https://pt.minecraft.wiki/w/Bioma)
+7. [Biomas](https://pt.minecraft.wiki/w/Bioma)
 Página sobre todos os biomas do jogo.
 
-- [Efeitos](https://pt.minecraft.wiki/w/Efeito)
+8. [Efeitos](https://pt.minecraft.wiki/w/Efeito)
 Página sobre todos os efeitos (de poções) do jogo.
 
-- [Fabricação](https://pt.minecraft.wiki/w/Fabrica%C3%A7%C3%A3o)
+9. [Fabricação](https://pt.minecraft.wiki/w/Fabrica%C3%A7%C3%A3o)
 Página sobre fabricação de itens, objetos, blocos e ferramentas.
 
-- [Fundição](https://pt.minecraft.wiki/w/Fundi%C3%A7%C3%A3o)
+10. [Fundição](https://pt.minecraft.wiki/w/Fundi%C3%A7%C3%A3o)
 Página sobre fundição de minérios e como usar a fornalha.
 
-- [Ferraria](https://pt.minecraft.wiki/w/Ferraria)
+11. [Ferraria](https://pt.minecraft.wiki/w/Ferraria)
 Página sobre ferraria (para atualizar ferramentas).
 
-- [Estruturas](https://pt.minecraft.wiki/w/Estrutura)
+12. [Estruturas](https://pt.minecraft.wiki/w/Estrutura)
 Página sobre as estruturas espalhadas nos mapas do jogo.
 
-- [Redstone](https://pt.minecraft.wiki/w/Circuitos_de_redstone)
+13. [Redstone](https://pt.minecraft.wiki/w/Circuitos_de_redstone)
 Página sobre a mecânica de redstone.
 
-- [Comandos](https://pt.minecraft.wiki/w/Comandos)
+14. [Comandos](https://pt.minecraft.wiki/w/Comandos)
 Página sobre todos os comandos do jogo.
 
-- [Histórico de Versões](https://pt.minecraft.wiki/w/Hist%C3%B3rico_de_vers%C3%B5es)
+15. [Histórico de Versões](https://pt.minecraft.wiki/w/Hist%C3%B3rico_de_vers%C3%B5es)
 Página sobre o histórico de versões do jogo.
 
-- [Tutoriais](https://pt.minecraft.wiki/w/Tutoriais)
+16. [Tutoriais](https://pt.minecraft.wiki/w/Tutoriais)
 Página de tutoriais diversos do jogo.
 
 
