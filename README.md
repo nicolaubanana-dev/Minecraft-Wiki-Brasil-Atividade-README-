@@ -87,7 +87,7 @@ O site foca na **comunidade** de jogadores de **Minecraft,** mas também em tran
 
 O **Minecraft Wiki** foi produzido e programado com a mesma tecnologia do **Wikipedia,** sendo ela a [MediaWiki](https://www.mediawiki.org/wiki/MediaWiki)
 
-![Minecraft Comunidade](MediaWiki-2020-logo.png)
+![Minecraft Comunidade](image.png)
 
 
 # Requisitos
