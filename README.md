@@ -59,3 +59,20 @@ O site também conta com uma página dedicada a discussões entre usuários sobr
 
 [![Minecraft Wiki- Aba Discussões](print_discussoes.png)](https://pt.minecraft.wiki/w/Discuss%C3%A3o:Minecraft_Wiki)
 
+
+# Quem é o Público-alvo?
+
+O site foca na comunidade de jogadores de Minecraft, mas também em transmitir conhecimento para aqueles que querem começar a jogar o jogo e entrar na comunidade.
+
+
+# Como o Site foi feito?
+
+O Minecraft Wiki foi produzido e programado com a mesma tecnologia do Wikipedia, sendo ela [MediaWiki](https://www.mediawiki.org/wiki/MediaWiki)
+
+
+# Desenvolvedores
+
+- Nicolas Bellasco (nicolaubanana-dev)
+- Gabriel Santiago
+
+
