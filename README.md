@@ -17,8 +17,8 @@ Há várias edições do $$\color{green}\text{Minecraft}$$ que recebem manutenç
 
 - Edição $$\color{orange}\text{Java}$$ para $$\color{blue}\text{Windows,}$$ $$\color{brown}\text{MacOS}$$ e $$\color{green}\text{Linux;}$$
 - Edição $$\color{purple}\text{Bedrock}$$ para $$\color{blue}\text{Windows,}$$ $$\color{cyan}\text{Dispositivos Móveis}$$ e $$\color{magenta}\text{Consoles;}$$ e
-- **Minecraft Education,** uma variante da Edição Bedrock para salas de aula.
-- Edição **China,** um lançamento localizado de ambas as edições para a China continental.
+- $$\color{yellow}\text{Minecraft Education,}$$ uma variante da Edição Bedrock para salas de aula.
+- Edição $$\color{red}\text{China,}$$ um lançamento localizado de ambas as edições para a China continental.
 
 <div align="center">
 
