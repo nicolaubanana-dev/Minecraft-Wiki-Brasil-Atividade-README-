@@ -41,7 +41,7 @@ O Site conta com **16 subpáginas,** cada uma delas recheada de informações e 
 7. [Biomas](https://pt.minecraft.wiki/w/Bioma)
 > Página sobre todos os biomas do jogo.
 
-8. [Efeitos](https://pt.minecraft.wiki/w/Efeito)
+8. [Efeito](https://pt.minecraft.wiki/w/Efeito)
 > Página sobre todos os efeitos (de poções) do jogo.
 
 9. [Fabricação](https://pt.minecraft.wiki/w/Fabrica%C3%A7%C3%A3o)
