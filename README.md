@@ -71,7 +71,6 @@ O Site conta com **16 subpáginas,** cada uma delas recheada de informações e 
 16. [Tutoriais](https://pt.minecraft.wiki/w/Tutoriais)
 | Página de tutoriais diversos do jogo.
 > Todas as páginas estão disponíveis direto no site oficial.
----
 
 
 # Aba de discussões 🗨️
@@ -80,7 +79,6 @@ O site também conta com uma página dedicada a **discussões** entre usuários 
 
 [![Minecraft Wiki- Aba Discussões](print_discussoes.png)](https://pt.minecraft.wiki/w/Discuss%C3%A3o:Minecraft_Wiki)
 > O Site é produzido por fãs e todos os dias recebe informações de contribuintes relacionadas ao jogos da Mojang Studios.
----
 
 
 
@@ -89,7 +87,7 @@ O site também conta com uma página dedicada a **discussões** entre usuários 
 O site foca na **comunidade** de jogadores de **Minecraft,** mas também em transmitir conhecimento para aqueles que querem começar a jogar o jogo e entrar na comunidade.
 
 ![Minecraft Comunidade](artigo-comunidades-minecraft.jpg)
----
+
 
 
 # Como o Site foi feito 🧩?
@@ -99,14 +97,14 @@ O **Minecraft Wiki** foi produzido e programado com a mesma tecnologia do **Wiki
 [![Minecraft Comunidade](image.png)](https://www.mediawiki.org/wiki/MediaWiki/pt-br)
 
 O software MediaWiki é utilizado por dezenas de milhares de sites e por milhares de empresas e organizações. O MediaWiki ajuda você a reunir e organizar o conhecimento e disponibilizá-lo para as pessoas. É poderoso, multi-idiomas, gratuito e aberto, extensível, personalizável, confiável e gratuito.
----
+
 
 
 # Requisitos 📱
 
 Para acessar e utilizar o site, você precisará de acesso à internet e um computador/dispositivo móvel.
 Para poder contribuir ao site com programação, será obrigatoriamente necessário um computador/notebook.
----
+
 
 
 # Desenvolvedores 🖥
