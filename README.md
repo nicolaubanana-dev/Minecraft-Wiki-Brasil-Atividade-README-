@@ -1,5 +1,5 @@
 # Minecraft Wiki Brasil (Atividade README)
-### Repositório Informativo da Wiki Brasileira do jogo Minecraft (2009).
+#### Repositório Informativo da Wiki Brasileira do jogo Minecraft (2009).
 > Este Repositório foi feito com cunho educativo e sem fins lucrativos.
 
 [![Minecraft Wiki](channels4_profile-removebg-preview.png)](https://pt.minecraft.wiki/)
