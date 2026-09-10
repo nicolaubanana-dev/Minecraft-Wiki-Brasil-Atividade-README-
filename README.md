@@ -75,9 +75,12 @@ O Site conta com **16 subpáginas,** cada uma delas recheada de informações e 
 
 # Aba de discussões 🗨️
 
-O site também conta com uma página dedicada a **discussões** entre usuários sobre o jogo. Assim como no GitHub, nesta página os usuários podem interagir com os outros e tirar dúvidas.
+O site também conta com uma página dedicada a **discussões** entre usuários sobre a página principal do site. Assim como no GitHub, nesta página os usuários podem interagir com os outros, editar códigos-fonte e ver as principais alterações feitas no site em tempo real.
 
 [![Minecraft Wiki- Aba Discussões](print_discussoes.png)](https://pt.minecraft.wiki/w/Discuss%C3%A3o:Minecraft_Wiki)
+> O Site é produzido por fãs e todos os dias recebe informações de contribuintes relacionadas ao jogos da Mojang Studios.
+
+
 
 
 # Quem é o Público-alvo 🔎?
