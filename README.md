@@ -11,7 +11,7 @@
 
 
 # O que é Minecraft 🎮?
-**Minecraft** é um jogo de aventura sandbox em 3D desenvolvido pela **Mojang Studios** em que o jogador interage com um ambiente tridimensional totalmente modificável feito de blocos e entidades. Sua jogabilidade diversa permite que o jogador escolha a forma como joga, com inúmeras possibilidades.
+$$\color{green}\text{Minecraft}$$ é um jogo de aventura sandbox em 3D desenvolvido pela **Mojang Studios** em que o jogador interage com um ambiente tridimensional totalmente modificável feito de blocos e entidades. Sua jogabilidade diversa permite que o jogador escolha a forma como joga, com inúmeras possibilidades.
 
 Há várias edições do **Minecraft** que recebem manutenção ativa, sendo elas a:
 
@@ -124,6 +124,6 @@ Para poder contribuir ao site com programação, será obrigatoriamente necessá
 
 # Desenvolvedores 🖥
 
-- $$\color{red}\text{Nicolas Bellasco (nicolaubanana-dev)}$$
+- $$\color{orange}\text{Nicolas Bellasco (nicolaubanana-dev)}$$
 - $$\color{orange}\text{Gabriel Santiago}$$
 
