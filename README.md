@@ -22,34 +22,49 @@ O Site conta com **16 subpáginas,** cada uma delas recheada de informações e 
 
 - [Comércio](https://pt.minecraft.wiki/w/Com%C3%A9rcio)
 Página sobre o comércio do jogo com NPCS (Aldeões).
+
 - [Fermentação](https://pt.minecraft.wiki/w/Fermenta%C3%A7%C3%A3o)
 Página sobre receitas e materiais para poções.
+
 - [Encantamento](https://pt.minecraft.wiki/w/Encantamento)
 Página sobre encantamentos de ferramentas (picareta, machado, etc).
+
 - [Criaturas](https://pt.minecraft.wiki/w/Criatura)
 Página sobre todas as criaturas do jogo (hostis, neutras e amigáveis).
+
 - [Blocos](https://pt.minecraft.wiki/w/Bloco)
 Página sobre os blocos do jogo.
+
 - [Itens](https://pt.minecraft.wiki/w/Item)
 Página sobre todos os itens do jogo.
+
 - [Biomas](https://pt.minecraft.wiki/w/Bioma)
 Página sobre todos os biomas do jogo.
+
 - [Efeitos](https://pt.minecraft.wiki/w/Efeito)
 Página sobre todos os efeitos (de poções) do jogo.
+
 - [Fabricação](https://pt.minecraft.wiki/w/Fabrica%C3%A7%C3%A3o)
 Página sobre fabricação de itens, objetos, blocos e ferramentas.
+
 - [Fundição](https://pt.minecraft.wiki/w/Fundi%C3%A7%C3%A3o)
 Página sobre fundição de minérios e como usar a fornalha.
+
 - [Ferraria](https://pt.minecraft.wiki/w/Ferraria)
 Página sobre ferraria (para atualizar ferramentas).
+
 - [Estruturas](https://pt.minecraft.wiki/w/Estrutura)
 Página sobre as estruturas espalhadas nos mapas do jogo.
+
 - [Redstone](https://pt.minecraft.wiki/w/Circuitos_de_redstone)
 Página sobre a mecânica de redstone.
+
 - [Comandos](https://pt.minecraft.wiki/w/Comandos)
 Página sobre todos os comandos do jogo.
+
 - [Histórico de Versões](https://pt.minecraft.wiki/w/Hist%C3%B3rico_de_vers%C3%B5es)
 Página sobre o histórico de versões do jogo.
+
 - [Tutoriais](https://pt.minecraft.wiki/w/Tutoriais)
 Página de tutoriais diversos do jogo.
 
