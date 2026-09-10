@@ -15,7 +15,7 @@ $$\color{green}\text{Minecraft}$$ é um jogo de aventura sandbox em 3D desenvolv
 
 Há várias edições do $$\color{green}\text{Minecraft}$$ que recebem manutenção ativa, sendo elas a:
 
-- Edição **Java** para **Windows,** **macOS** e **Linux;**
+- Edição $$\color{orange}\text{Java}$$ para $$\color{blue}\text{Windows,}$$ $$\color{brown}\text{MacOS}$$ e $$\color{green}\text{Linux;}$$
 - Edição **Bedrock** para **Windows,** **dispositivos móveis** e **consoles;** e
 - **Minecraft Education,** uma variante da Edição Bedrock para salas de aula.
 - Edição **China,** um lançamento localizado de ambas as edições para a China continental.
