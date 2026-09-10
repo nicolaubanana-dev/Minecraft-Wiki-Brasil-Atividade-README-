@@ -29,7 +29,7 @@ Há várias edições do $$\color{green}\text{Minecraft}$$ que recebem manutenç
 
 # O que é Minecraft Wiki 🌏?
 
-O $$\color{cyan}\text{Minecraft Wiki}$$ (especificamente o Wiki Brasil) é um site destinado a compartilhar informações sobre o jogo **Minecraft(2009)** com a comunidade, conectando os jogadores brasileiros e ajudando novos players.
+O $$\color{cyan}\text{Minecraft Wiki}$$ (especificamente o Wiki Brasil) é um site destinado a compartilhar informações sobre o jogo $$\color{green}\text{Minecraft(2009)}$$ com a comunidade, conectando os jogadores brasileiros e ajudando novos players.
 O Site conta com **16 subpáginas,** cada uma delas recheada de informações e dados sobre diversas áreas e itens do jogo, sendo elas:
 
 1. [Comércio](https://pt.minecraft.wiki/w/Com%C3%A9rcio)
@@ -93,7 +93,7 @@ O site também conta com uma página dedicada a **discussões** entre usuários 
 
 # Quem é o Público-alvo 🔎?
 
-O site foca na **comunidade** de jogadores de **Minecraft,** mas também em transmitir conhecimento para aqueles que querem começar a jogar o jogo e entrar na comunidade.
+O site foca na **comunidade** de jogadores de *$$\color{green}\text{Minecraft,}$$ mas também em transmitir conhecimento para aqueles que querem começar a jogar o jogo e entrar na comunidade.
 
 <div align="center">
 
