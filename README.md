@@ -70,6 +70,7 @@ O Site conta com **16 subpáginas,** cada uma delas recheada de informações e 
 
 16. [Tutoriais](https://pt.minecraft.wiki/w/Tutoriais)
 | Página de tutoriais diversos do jogo.
+> Todas as páginas estão disponíveis direto no site oficial.
 
 
 # Aba de discussões 🗨️
