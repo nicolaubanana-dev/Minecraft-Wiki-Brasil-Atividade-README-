@@ -85,9 +85,11 @@ O site foca na **comunidade** de jogadores de **Minecraft,** mas também em tran
 
 # Como o Site foi feito?
 
-O **Minecraft Wiki** foi produzido e programado com a mesma tecnologia do **Wikipedia,** sendo ela a [MediaWiki](https://www.mediawiki.org/wiki/MediaWiki)
+O **Minecraft Wiki** foi produzido e programado com a mesma tecnologia do **Wikipedia,** sendo ela o [MediaWiki](https://www.mediawiki.org/wiki/MediaWiki)
 
 [![Minecraft Comunidade](image.png)](https://www.mediawiki.org/wiki/MediaWiki/pt-br)
+
+O software MediaWiki é utilizado por dezenas de milhares de sites e por milhares de empresas e organizações. O MediaWiki ajuda você a reunir e organizar o conhecimento e disponibilizá-lo para as pessoas. É poderoso, multi-idiomas, gratuito e aberto, extensível, personalizável, confiável e gratuito.
 
 
 # Requisitos
