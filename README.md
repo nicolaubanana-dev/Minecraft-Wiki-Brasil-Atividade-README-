@@ -15,6 +15,7 @@ Há várias edições do **Minecraft** que recebem manutenção ativa, sendo ela
 - Edição **China,** um lançamento localizado de ambas as edições para a China continental.
 
 [![Minecraft](minecraft-image.jpg)](https://www.minecraft.net/pt-br)
+
 ---
 
 # O que é Minecraft Wiki 🌏?
