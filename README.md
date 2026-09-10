@@ -25,9 +25,9 @@ Página sobre o comércio do jogo com NPCS (Aldeões).
 - [Fermentação](https://pt.minecraft.wiki/w/Fermenta%C3%A7%C3%A3o)
 Página sobre receitas e materiais para poções.
 - [Encantamento](https://pt.minecraft.wiki/w/Encantamento)
-Página sobre encantamentos de ferramentas (picareta, machado, etc.)
+Página sobre encantamentos de ferramentas (picareta, machado, etc).
 - [Criaturas](https://pt.minecraft.wiki/w/Criatura)
-Página sobre todas as criaturas do jogo (hostis, neutras e amigáveis.)
+Página sobre todas as criaturas do jogo (hostis, neutras e amigáveis).
 - [Blocos](https://pt.minecraft.wiki/w/Bloco)
 Página sobre os blocos do jogo.
 - [Itens](https://pt.minecraft.wiki/w/Item)
@@ -41,7 +41,7 @@ Página sobre fabricação de itens, objetos, blocos e ferramentas.
 - [Fundição](https://pt.minecraft.wiki/w/Fundi%C3%A7%C3%A3o)
 Página sobre fundição de minérios e como usar a fornalha.
 - [Ferraria](https://pt.minecraft.wiki/w/Ferraria)
-Página sobre ferraria (para atualizar ferramentas.)
+Página sobre ferraria (para atualizar ferramentas).
 - [Estruturas](https://pt.minecraft.wiki/w/Estrutura)
 Página sobre as estruturas espalhadas nos mapas do jogo.
 - [Redstone](https://pt.minecraft.wiki/w/Circuitos_de_redstone)
