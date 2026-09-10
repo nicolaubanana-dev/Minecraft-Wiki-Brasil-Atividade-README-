@@ -24,7 +24,7 @@ Há várias edições do **Minecraft** que recebem manutenção ativa, sendo ela
  [![Minecraft](minecraft-image.jpg)](https://www.minecraft.net/pt-br)
 
 </div>
----
+
 
 # O que é Minecraft Wiki 🌏?
 
