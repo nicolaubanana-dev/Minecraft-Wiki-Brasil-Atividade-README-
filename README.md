@@ -4,7 +4,7 @@ Repositório Informativo da Wiki Brasileira do jogo Minecraft (2009).
 [![Minecraft Wiki](channels4_profile-removebg-preview.png)](https://pt.minecraft.wiki/)
 
 
-# O que é Minecraft?
+# O que é Minecraft 🎮?
 **Minecraft** é um jogo de aventura sandbox em 3D desenvolvido pela **Mojang Studios** em que o jogador interage com um ambiente tridimensional totalmente modificável feito de blocos e entidades. Sua jogabilidade diversa permite que o jogador escolha a forma como joga, com inúmeras possibilidades.
 
 Há várias edições do **Minecraft** que recebem manutenção ativa, sendo elas a:
@@ -69,21 +69,21 @@ O Site conta com **16 subpáginas,** cada uma delas recheada de informações e 
 | Página de tutoriais diversos do jogo.
 
 
-# Aba de discussões🗨️
+# Aba de discussões 🗨️
 
 O site também conta com uma página dedicada a **discussões** entre usuários sobre o jogo. Assim como no GitHub, nesta página os usuários podem interagir com os outros e tirar dúvidas.
 
 [![Minecraft Wiki- Aba Discussões](print_discussoes.png)](https://pt.minecraft.wiki/w/Discuss%C3%A3o:Minecraft_Wiki)
 
 
-# Quem é o Público-alvo?
+# Quem é o Público-alvo 🔎?
 
 O site foca na **comunidade** de jogadores de **Minecraft,** mas também em transmitir conhecimento para aqueles que querem começar a jogar o jogo e entrar na comunidade.
 
 ![Minecraft Comunidade](artigo-comunidades-minecraft.jpg)
 
 
-# Como o Site foi feito?
+# Como o Site foi feito 🧩?
 
 O **Minecraft Wiki** foi produzido e programado com a mesma tecnologia do **Wikipedia,** sendo ela o [MediaWiki](https://www.mediawiki.org/wiki/MediaWiki)
 
@@ -92,12 +92,12 @@ O **Minecraft Wiki** foi produzido e programado com a mesma tecnologia do **Wiki
 O software MediaWiki é utilizado por dezenas de milhares de sites e por milhares de empresas e organizações. O MediaWiki ajuda você a reunir e organizar o conhecimento e disponibilizá-lo para as pessoas. É poderoso, multi-idiomas, gratuito e aberto, extensível, personalizável, confiável e gratuito.
 
 
-# Requisitos
+# Requisitos 📱
 
 Para acessar o site, você precisará de acesso à internet e um computador/dispositivo móvel.
 
 
-# Desenvolvedores
+# Desenvolvedores 🖥
 
 - Nicolas Bellasco (nicolaubanana-dev)
 - Gabriel Santiago
