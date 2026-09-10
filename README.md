@@ -9,7 +9,7 @@ Repositório Informativo da Wiki Brasileira do jogo Minecraft (2009).
 
 Há várias edições do **Minecraft** que recebem manutenção ativa, sendo elas a:
 
-- Edição **Java** para **´Windows´**, **macOS** e **Linux;**
+- Edição **Java** para ´Windows´, **macOS** e **Linux;**
 - Edição **Bedrock** para **Windows,** **dispositivos móveis** e **consoles;** e
 - **Minecraft Education,** uma variante da Edição Bedrock para salas de aula.
 - Edição **China,** um lançamento localizado de ambas as edições para a China continental.
