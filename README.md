@@ -95,9 +95,11 @@ O site também conta com uma página dedicada a **discussões** entre usuários 
 
 O site foca na **comunidade** de jogadores de **Minecraft,** mas também em transmitir conhecimento para aqueles que querem começar a jogar o jogo e entrar na comunidade.
 
-![Minecraft Comunidade](artigo-comunidades-minecraft.jpg)
+<div align="center">
 
+ ![Minecraft Comunidade](artigo-comunidades-minecraft.jpg)
 
+</div>
 
 # Como o Site foi feito 🧩?
 
