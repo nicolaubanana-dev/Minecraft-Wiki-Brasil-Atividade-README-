@@ -94,7 +94,8 @@ O software MediaWiki é utilizado por dezenas de milhares de sites e por milhare
 
 # Requisitos 📱
 
-Para acessar o site, você precisará de acesso à internet e um computador/dispositivo móvel.
+Para acessar e utilizar o site, você precisará de acesso à internet e um computador/dispositivo móvel.
+Para poder contribuir ao site com programação, será obrigatoriamente necessário um computador/notebook.
 
 
 # Desenvolvedores 🖥
