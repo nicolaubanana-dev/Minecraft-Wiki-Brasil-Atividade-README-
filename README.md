@@ -21,7 +21,7 @@ O **Minecraft Wiki** (especificamente o Wiki Brasil) é um site destinado a comp
 O Site conta com **16 subpáginas,** cada uma delas recheada de informações e dados sobre diversas áreas e itens do jogo, sendo elas:
 
 1. [Comércio](https://pt.minecraft.wiki/w/Com%C3%A9rcio)
- Página sobre o comércio do jogo com NPCS (Aldeões).
+| Página sobre o comércio do jogo com NPCS (Aldeões).
 
 2. [Fermentação](https://pt.minecraft.wiki/w/Fermenta%C3%A7%C3%A3o)
  Página sobre receitas e materiais para poções.
