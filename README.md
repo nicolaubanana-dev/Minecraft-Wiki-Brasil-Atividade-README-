@@ -5,19 +5,19 @@ Repositório Informativo da Wiki Brasileira do jogo Minecraft (2009).
 
 
 # O que é Minecraft?
-Minecraft é um jogo de aventura sandbox em 3D desenvolvido pela Mojang Studios em que o jogador interage com um ambiente tridimensional totalmente modificável feito de blocos e entidades. Sua jogabilidade diversa permite que o jogador escolha a forma como joga, com inúmeras possibilidades.
+**Minecraft** é um jogo de aventura sandbox em 3D desenvolvido pela **Mojang Studios** em que o jogador interage com um ambiente tridimensional totalmente modificável feito de blocos e entidades. Sua jogabilidade diversa permite que o jogador escolha a forma como joga, com inúmeras possibilidades.
 
-Há várias edições do Minecraft que recebem manutenção ativa, sendo elas a:
+Há várias edições do **Minecraft** que recebem manutenção ativa, sendo elas a:
 
-- Edição Java para Windows, macOS e Linux;
-- Edição Bedrock para Windows, dispositivos móveis e consoles; e
-- Minecraft Education, uma variante da Edição Bedrock para salas de aula.
-- Edição China, um lançamento localizado de ambas as edições para a China continental.
+- Edição **Java** para **Windows**, **macOS** e **Linux**;
+- Edição **Bedrock** para **Windows**, **dispositivos móveis** e **consoles**; e
+- **Minecraft Education**, uma variante da Edição Bedrock para salas de aula.
+- Edição **China**, um lançamento localizado de ambas as edições para a China continental.
 
 # O que é Minecraft Wiki 🌏?
 
-O Minecraft Wiki (especificamente o Wiki Brasil) é um site destinado a compartilhar informações sobre o jogo Minecraft(2009) com a comunidade, conectando os jogadores brasileiros e ajudando novos players.
-O Site conta com 16 subpáginas, cada uma delas recheada de informações e dados sobre diversas áreas e itens do jogo, sendo elas:
+O **Minecraft Wiki** (especificamente o Wiki Brasil) é um site destinado a compartilhar informações sobre o jogo **Minecraft(2009)** com a comunidade, conectando os jogadores brasileiros e ajudando novos players.
+O Site conta com **16 subpáginas**, cada uma delas recheada de informações e dados sobre diversas áreas e itens do jogo, sendo elas:
 
 - [Comércio](https://pt.minecraft.wiki/w/Com%C3%A9rcio)
 Página sobre o comércio do jogo com NPCS (Aldeões).
@@ -55,19 +55,19 @@ Página de tutoriais diversos do jogo.
 
 # Aba de discussões🗨️
 
-O site também conta com uma página dedicada a discussões entre usuários sobre o jogo. Assim como no GitHub, nesta página os usuários podem interagir com os outros e tirar dúvidas.
+O site também conta com uma página dedicada a **discussões** entre usuários sobre o jogo. Assim como no GitHub, nesta página os usuários podem interagir com os outros e tirar dúvidas.
 
 [![Minecraft Wiki- Aba Discussões](print_discussoes.png)](https://pt.minecraft.wiki/w/Discuss%C3%A3o:Minecraft_Wiki)
 
 
 # Quem é o Público-alvo?
 
-O site foca na comunidade de jogadores de Minecraft, mas também em transmitir conhecimento para aqueles que querem começar a jogar o jogo e entrar na comunidade.
+O site foca na **comunidade** de jogadores de **Minecraft**, mas também em transmitir conhecimento para aqueles que querem começar a jogar o jogo e entrar na comunidade.
 
 
 # Como o Site foi feito?
 
-O Minecraft Wiki foi produzido e programado com a mesma tecnologia do Wikipedia, sendo ela [MediaWiki](https://www.mediawiki.org/wiki/MediaWiki)
+O **Minecraft Wiki** foi produzido e programado com a mesma tecnologia do **Wikipedia**, sendo ela a [MediaWiki](https://www.mediawiki.org/wiki/MediaWiki)
 
 
 # Requisitos
