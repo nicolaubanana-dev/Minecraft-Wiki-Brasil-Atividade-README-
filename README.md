@@ -111,7 +111,7 @@ O $$\color{cyan}\text{Minecraft Wiki}$$ foi produzido e programado com a mesma t
 
 </div>
 
-O software MediaWiki é utilizado por dezenas de milhares de sites e por milhares de empresas e organizações. O MediaWiki ajuda você a reunir e organizar o conhecimento e disponibilizá-lo para as pessoas. É poderoso, multi-idiomas, gratuito e aberto, extensível, personalizável, confiável e gratuito.
+O software $$\color{orange}\text{MediaWiki}$$ é utilizado por dezenas de milhares de sites e por milhares de empresas e organizações. O $$\color{orange}\text{MediaWiki}$$ ajuda você a reunir e organizar o conhecimento e disponibilizá-lo para as pessoas. É poderoso, multi-idiomas, gratuito e aberto, extensível, personalizável, confiável e gratuito.
 
 
 
