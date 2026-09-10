@@ -1,0 +1,12 @@
+# Arquivos de sistema operativo
+.DS_Store
+Thumbs.db
+
+# Pastas de dependências e builds (se houver código)
+node_modules/
+dist/
+build/
+
+# Arquivos de configuração do ambiente de desenvolvimento
+.vscode/
+.idea/
